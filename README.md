@@ -1,8 +1,11 @@
 This is an attempt to make a PCB version of [Hagiwo's Clock Multi Divide module](https://note.com/solder_state/n/n8907f2f6e8f5).
 
-# Notes
+# Notes / ToDo
 
-- I'm using schematic symbol for Arduino Nano v3.x, check that this matches my actual Nano
+- I'm using the schematic symbol for Arduino Nano v3.x, check that this matches my actual Nano
+- Change pin order of Eurocad 2x5 pin power symbol
+- Update screw hole positions on panel template - mine fall between two rail screw holes
+    - centre is: 3mm down from edge, 5.08mm across from edge, 3.2 in diameter, seems correct
 
 ## Diodes and voltage protection
 
