@@ -1,0 +1,3 @@
+- make potentiometer mounting holes bigger
+- make the led holes bigger
+- revert power orientation
