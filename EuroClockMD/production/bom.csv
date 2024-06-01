@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Arduino_Nano,1,Arduino_Nano_v3.x,
+"D1, D10, D11, D3, D4, D5, D8",D_DO-35_SOD27_P7.62mm_Horizontal,7,BAT43,
+D7,D_DO-35_SOD27_P7.62mm_Horizontal,1,IN4148,
+J5,Pins_2x05_2.54mm_TH_EurorackPower_Shrouded,1,EURO_PWR_2x5,
+J6,PinHeader_1x15_P2.54mm_Vertical,1,Conn_01x15_Pin_Left,
+J9,PinHeader_1x15_P2.54mm_Vertical,1,Conn_01x15_Pin_Right,
+R10,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,22K,
